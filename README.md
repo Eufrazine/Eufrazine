@@ -10,11 +10,9 @@
     <img align="center" alt="Moni-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Moni-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Moni-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/78742336/176056298-41205b04-58ee-401d-a970-a0cabe6fe506.png"> 
+    <img align="right" alt="Moni-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/78742336/176056298-41205b04-58ee-401d-a970-a0cabe6fe506.png"> 
 </div>
     
 ##   
-    
-<div>   
+ 
 ![Snake animation](https://github.com/Eufrazine/MoniqueCagg/blob/output/github-contribution-grid-snake.svg)
-</div>        
