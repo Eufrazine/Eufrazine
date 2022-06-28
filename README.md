@@ -18,4 +18,4 @@
     
 ##   
  
-![Snake animation](https://github.com/Eufrazine/MoniqueCagg/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Eufrazine/Monique-/blob/output/github-contribution-grid-snake.svg)
