@@ -13,6 +13,8 @@
     <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eufrazine&layout=compact&langs_count=7&theme=discord_old_blurple"/> 
 </div>
     
+    [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4m8savvvj94y0p2arwek98gw3&cover_image=true&theme=novatorem&bar_color=5943c7&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=4m8savvvj94y0p2arwek98gw3&redirect=true)
+    
 ##   
  
 ![Snake animation align="left"](https://github.com/Eufrazine/Monique-/blob/output/github-contribution-grid-snake.svg)
