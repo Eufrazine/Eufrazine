@@ -10,8 +10,7 @@
 
 <div align="left">
     <a href="https://github.com/Eufrazine">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eufrazine&layout=compact&langs_count=7&theme=discord_old_blurple"/>
-    <img align="right" alt="Moni-pic" height="180px" style="border-radius:50px;" src="https://user-images.githubusercontent.com/78742336/176083244-61c957cf-e506-430b-bcc7-2a8f6e56db10.png"> 
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eufrazine&layout=compact&langs_count=7&theme=discord_old_blurple"/> 
 </div>
     
 ##   
