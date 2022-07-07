@@ -11,7 +11,9 @@
 <div align="left">
     <a href="https://github.com/Eufrazine">
     <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eufrazine&layout=compact&langs_count=7&theme=discord_old_blurple"/> 
+    <img align="right" alt="Moni-pic" height="200px" style="border-radius:50px;" src="https://user-images.githubusercontent.com/78742336/177867512-bbf14cdd-d70d-4faf-9997-7abbb24707dd.png"> 
 </div>
+
 
 ##   
  
