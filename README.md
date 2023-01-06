@@ -39,7 +39,7 @@
 </div>
 
 <div align="right">
-![This is an image](https://github.com/Eufrazine/Eufrazine/blob/48a5ca320690788355c3abcfa592a3c741b9d025/octocat-1673036007584.png)
+![This is an image](https://github.com/Eufrazine/Eufrazine/blob/main/octocat-1673036007584.png)
 </div>
 
  ![Snake animation](https://github.com/Eufrazine/Eufrazine/blob/output/github-contribution-grid-snake.svg)
