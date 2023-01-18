@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Monique!🍄</h1>
+<h1 align="center">Hi 👋, I'm Monique! 🍄</h1>
 <h3 align="center">A programming student from Brazil</h3>
 
 - 🎓 I'm taking courses **fullstack**
