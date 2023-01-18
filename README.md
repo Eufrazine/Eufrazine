@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Monique! 🍇</h1>
+<h1 align="center">Hi 👋, I'm Monique!🍄</h1>
 <h3 align="center">A programming student from Brazil</h3>
 
-- 🔭 I'm taking courses **fullstack**
+- 🎓 I'm taking courses **fullstack**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌻 I’m currently learning **JavaScript**
 
-- 🤝 I'm interested in **ReactJs**
+- 🧐 I'm interested in **ReactJs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Eufrazine/Programming_Projects](https://github.com/Eufrazine/Programming_Projects)
 
-- 📫 How to reach me **moniquecaggiano@gmail.com**
+- 📧 How to reach me **moniquecaggiano@gmail.com**
 
-- ⚡ Interesting fact **I started studying about programming in the covid-19 pandemic!**
+- 💜 Interesting fact **I started studying about programming in the covid-19 pandemic!**
 
 <div align="left"> 
 
