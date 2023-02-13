@@ -7,7 +7,7 @@
 
 - 🧐 I'm interested in **ReactJs**
 
-- 👨‍💻 All of my projects are available at **[https://github.com/Eufrazine/Programming_Projects](https://github.com/Eufrazine/Programming_Projects)**
+- 👨‍💻 All of my projects are available at **[Projects](https://github.com/Eufrazine/Projects)**
 
 - 📧 How to reach me **moniquecaggiano@gmail.com**
 
