@@ -11,14 +11,11 @@
 
 - 📧 How to reach me **moniquecaggiano@gmail.com**
 
+- 🌎 Connect with me **linkedin.com/in/monique-cagg/**
+
 - 💜 Interesting fact **I started studying about programming in the covid-19 pandemic!**
 
-<div text-align="right"> 
-
-<h3 text-align="left">Connect with me:</h3>
-<p align="left">
- <a href="https://linkedin.com/in/monique-cagg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="monique-cagg" height="30" width="40" /></a>
-</p>
+<div text-align="left"> 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
