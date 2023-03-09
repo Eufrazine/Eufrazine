@@ -13,7 +13,7 @@
 
 - 💜 Interesting fact **I started studying about programming in the covid-19 pandemic!**
 
-<div align="left"> 
+<div align="right"> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,5 +37,7 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 </p>
 </div>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eufrazine&theme=material_palenight)
 
  ![Snake animation](https://github.com/Eufrazine/Eufrazine/blob/output/github-contribution-grid-snake.svg)
