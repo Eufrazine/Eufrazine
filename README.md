@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Monique! 🍄</h1>
-<h3 align="center">A programming student from Brazil</h3>
+<h3 align="center"><strong>A programming student from Brazil</strong></h3>
 
-- 🎓 I am graduating in Systems Analysis and Development (Análise e Desenvolvimento de Sistemas - ADS) from Anhembi Morumbi University
+- 🎓 I am graduating in **Systems Analysis and Development** (Análise e Desenvolvimento de Sistemas - ADS) from Anhembi Morumbi University
 
 - 📚 I'm taking courses **fullstack**
 
@@ -16,6 +16,8 @@
 - 🌎 Connect with me **[linkedin](https://linkedin.com/in/monique-cagg/)**
 
 - 💜 Interesting fact: I started **studying about programming** in the covid-19 pandemic!
+
+<hr>
 
 <div text-align="left"> 
 
@@ -37,10 +39,14 @@
 </p>
 </div>
 
+<hr>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eufrazine&theme=material_palenight)
 
- ![Snake animation](https://github.com/Eufrazine/Eufrazine/blob/output/github-contribution-grid-snake.svg)
+<hr>
+
+![Snake animation](https://github.com/Eufrazine/Eufrazine/blob/output/github-contribution-grid-snake.svg)
  
- <hr.
- 
- **“It does not dwell on dreams and forget to live.” — Albus Dumbledore**
+<hr>
+
+<h3 align="center">It does not dwell on dreams and forget to live.” — <strong>Albus Dumbledore 🧙‍♂️</strong></h3>
