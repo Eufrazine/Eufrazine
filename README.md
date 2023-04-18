@@ -29,28 +29,28 @@
  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML" width="40" height="40"/> </a>
 
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/" target="_blank" rel="noreferrer"> 
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" width="40" height="40" /> </a>
 
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/" target="_blank" rel="noreferrer"> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40" /> </a>
 
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/" target="_blank" rel="noreferrer">
+<a href="https://developer.mozilla.org/pt-BR/docs/Glossary/Python" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt="Python" width="40" height="40" /> </a>
 
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/" target="_blank" rel="noreferrer"> 
+<a href="https://www.alura.com.br/artigos/node-js" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="NodeJS" width="40" height="40" /> </a>
 
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/" target="_blank" rel="noreferrer"> 
+<a href="https://www.hostinger.com.br/tutoriais/sqlite-vs-mysql" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-plain.svg" alt="SQLite" width="40" height="40" /> </a>
 
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/" target="_blank" rel="noreferrer"> 
+<a href="https://www.alura.com.br/artigos/o-que-e-git-github" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="Git" width="40" height="40" /> </a>
 
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/" target="_blank" rel="noreferrer"> 
+<a href="https://www.hostinger.com.br/tutoriais/o-que-github" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"  /> </a>
 
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/" target="_blank" rel="noreferrer"> 
+<a href="https://www.alura.com.br/artigos/figma" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"  /> </a>
  
 </p>
