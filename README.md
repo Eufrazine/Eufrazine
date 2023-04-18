@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Monique! 🍄</h1>
 <h3 align="center"><strong>A programming student from Brazil</strong></h3>
 
+<hr>
+
 - 🎓 I am graduating in **Systems Analysis and Development** (Análise e Desenvolvimento de Sistemas - ADS) from Anhembi Morumbi University
 
 - 📚 I'm taking courses **fullstack**
