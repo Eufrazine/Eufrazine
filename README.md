@@ -1,19 +1,21 @@
 <h1 align="center">Hi, I'm Monique! 🍄</h1>
 <h3 align="center">A programming student from Brazil</h3>
 
-- 🎓 I'm taking courses **fullstack**
+- 🎓 I am graduating in Systems Analysis and Development (Análise e Desenvolvimento de Sistemas - ADS) from Anhembi Morumbi University
 
-- 🌻 I’m currently learning **JavaScript**
+- 📚 I'm taking courses **fullstack**
 
-- 🧐 I'm interested in **ReactJs**
+- 🌻 I’m currently learning **SQL**
+
+- 🧐 I'm interested in **Back-end and Front-end**
 
 - 👨‍💻 All of my projects are available at **[Projects](https://github.com/Eufrazine/Projects)**
 
-- 📧 How to reach me **moniquecaggiano@gmail.com**
+- 📧 How to reach me **moniquecaggiano@gmail.com** 
 
 - 🌎 Connect with me **[linkedin](https://linkedin.com/in/monique-cagg/)**
 
-- 💜 Interesting fact **I started studying about programming in the covid-19 pandemic!**
+- 💜 Interesting fact: I started **studying about programming** in the covid-19 pandemic!
 
 <div text-align="left"> 
 
@@ -38,3 +40,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eufrazine&theme=material_palenight)
 
  ![Snake animation](https://github.com/Eufrazine/Eufrazine/blob/output/github-contribution-grid-snake.svg)
+ 
+ <hr.
+ 
+ **“It does not dwell on dreams and forget to live.” — Albus Dumbledore**
