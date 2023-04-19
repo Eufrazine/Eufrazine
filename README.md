@@ -11,7 +11,7 @@
 
 - 🧐 I'm interested in **Back-end and Front-end**
 
-- 👨‍💻 All of my projects are available at **[Developing](https://github.com/Eufrazine/Developing)**
+- 👨‍💻 All of my projects are available at: **[Developing](https://github.com/Eufrazine/Developing)**
 
 - 📧 How to reach me **moniquecaggiano@gmail.com** 
 
