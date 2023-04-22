@@ -1,30 +1,27 @@
-<h1 align="center">Hi, I'm Monique! 🍄</h1>
-<h3 align="center"><strong>A programming student from Brazil</strong></h3>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=292d3e&height=150&section=header%&text=Hi,+I'm+Monique!+&fontSize=40&fontColor=c792ea"/>
 
-<hr>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=89ddff&size=20&center=true&vCenter=true&width=1000&lines=A+programming+student+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-- 🎓 I am graduating in **Systems Analysis and Development** (Análise e Desenvolvimento de Sistemas - ADS) from Anhembi Morumbi University
+#### 🎓 I am graduating in **Systems Analysis and Development** (Análise e Desenvolvimento de Sistemas - ADS) from Anhembi Morumbi University
 
-- 📚 I'm taking courses **fullstack**
+#### 📚 I'm taking courses **fullstack**
 
-- 🌻 I’m currently learning **SQL**
+#### 🌻 I’m currently learning **SQL**
 
-- 🧐 I'm interested in **Back-end and Front-end**
+#### 🧐 I'm interested in **Back-end and Front-end**
 
-- 👨‍💻 All of my projects are available at: **[Developing](https://github.com/Eufrazine/Developing)**
+#### 👨‍💻 All of my projects are available at: **[Developing](https://github.com/Eufrazine/Developing)**
 
-- 📧 How to reach me **moniquecaggiano@gmail.com** 
+#### 📧 How to reach me **moniquecaggiano@gmail.com** 
 
-- 🌎 Connect with me **[linkedin](https://linkedin.com/in/monique-cagg/)**
+#### 🌎 Connect with me **[linkedin](https://linkedin.com/in/monique-cagg/)**
 
-- 💜 Interesting fact: I started **studying about programming** in the covid-19 pandemic!
-
-<hr>
+#### 💜 Interesting fact: I started **studying about programming** in the covid-19 pandemic!
 
 <div text-align="left"> 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
 
  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML" width="40" height="40"/> </a>
@@ -56,14 +53,19 @@
 </p>
 </div>
 
-<hr>
+<div align="center">  
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eufrazine&theme=material_palenight)
+ <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eufrazine&show_icons=true&theme=material_palenight&title_color=c792ea&text_color=89ddff&bg_color=0d1117&hide_border=true&locale=pt-BR&layout=compact" alt="Eufrazine github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eufrazine&show_icons=true&theme=material_palenight&title_color=c792ea&text_color=89ddff&bg_color=0d1117&hide_border=true&locale=pt-BR&layout=compact" />
 
-<hr>
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Eufrazine&theme=material-palenight&bg_color=0d1117&hide_border=true)
+
+</div>
+
+<div align="center">  
 
 ![Snake animation](https://github.com/Eufrazine/Eufrazine/blob/output/github-contribution-grid-snake.svg)
- 
-<hr>
 
-<h3 align="center">“It does not dwell on dreams and forget to live.” — <strong>Albus Dumbledore 🧙‍♂️</strong></h3>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=292d3e&height=150&section=footer&text=“It+does+not+dwell+on+dreams+and+forget+to+live.”+—+Albus+Dumbledore+🧙‍♂️&fontSize=20&fontColor=c792ea"/>
