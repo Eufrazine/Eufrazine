@@ -58,7 +58,7 @@
  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eufrazine&show_icons=true&theme=material_palenight&title_color=c792ea&text_color=89ddff&bg_color=0d1117&hide_border=true&locale=pt-BR&layout=compact" alt="Eufrazine github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eufrazine&show_icons=true&theme=material_palenight&title_color=c792ea&text_color=89ddff&bg_color=0d1117&hide_border=true&locale=pt-BR&layout=compact" />
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Eufrazine&theme=material-palenight&bg_color=0d1117&hide_border=true)
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=eufrazine&bg_color=0d1117&color=be8ee9&line=c792ea&point=84d5f6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
