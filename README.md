@@ -6,7 +6,7 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=89ddff&size=20&center=true&v
 
 <div>
     <p>🎓 I am graduating in <b>Systems Analysis and Development</b> (Análise e Desenvolvimento de Sistemas - ADS) from
-        Anhembi Morumbi University </p>
+        Unicid - Universidade Cidade de São Paulo </p>
     <p>📚 I'm taking courses <b>fullstack</b> </p>
     <p>🌻 I'm currently learning <b>SQL</b> </p>
     <p>🧐 I'm interested in <b>Back-end and Front-end</b> </p>
