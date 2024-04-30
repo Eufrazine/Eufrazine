@@ -1,4 +1,4 @@
- <img width=100%
+<img width=100%
     src="https://capsule-render.vercel.app/api?type=waving&color=292d3e&height=150&section=header%&text=Hi,+I'm+Monique!+&fontSize=40&fontColor=c792ea" />
 
 [![Typing
@@ -37,17 +37,7 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=89ddff&size=20&center=true&v
   <img width="12" />
   <img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="30" alt="amazonwebservices logo"  />
     </p>
-</div>
-
-<div align="center">  
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=4m8savvvj94y0p2arwek98gw3&unique={true|1|on|yes})
-
-</div>
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Eufrazine/Eufrazine/output/snake.svg" alt="Snake animation" />
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=292d3e&height=150&section=footer&text=“It+does+not+dwell+on+dreams+and+forget+to+live.”+—+Albus+Dumbledore+🧙‍♂️&fontSize=20&fontColor=c792ea"/>
+
+</div>
