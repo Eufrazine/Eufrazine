@@ -7,10 +7,9 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=89ddff&size=20&center=true&v
 <div>
     <p>🎓 I am graduating in <b>Systems Analysis and Development</b> (Análise e Desenvolvimento de Sistemas - ADS) from
         Unicid - Universidade Cidade de São Paulo </p>
-    <p>📚 I'm taking courses <b>fullstack</b> </p>
-    <p>🌻 I'm currently learning <b>SQL</b> </p>
-    <p>🧐 I'm interested in <b>Back-end and Front-end</b> </p>
-    <p>👨‍💻 All of my projects are available at: <a href="https://github.com/Eufrazine/Developing">Developing</>
+    <p>🌻 I'm currently learning <b>AWS</b> </p>
+    <p>🧐 I'm interested in <b>data analysis and cybersecurity</b> </p>
+    <p>👨‍💻 All of my projects are available at: <a href="https://github.com/Eufrazine/Developing">DevDepot</>
     </p>
     <p>📧 How to reach me <b>moniquecaggiano@gmail.com</b> </p>
     <p>🌎 Connect with me in <b><a href="https://linkedin.com/in/monique-cagg/">Linkedin</a></b> </p>
@@ -20,40 +19,35 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=89ddff&size=20&center=true&v
 <div text-align="left">
     <h3 align="center">Languages and Tools:</h3>
     <p align="center">
-        <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML" width="40"
-                height="40" /> </a>
-        <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" width="40"
-                height="40" /> </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
-                alt="JavaScript" width="40" height="40" /> </a>
-        <a href="https://developer.mozilla.org/pt-BR/docs/Glossary/Python" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt="Python"
-                width="40" height="40" /> </a>
-        <a href="https://www.alura.com.br/artigos/node-js" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="NodeJS"
-                width="40" height="40" /> </a>
-        <a href="https://www.hostinger.com.br/tutoriais/sqlite-vs-mysql" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-plain.svg" alt="SQLite"
-                width="40" height="40" /> </a>
-        <a href="https://www.alura.com.br/artigos/o-que-e-git-github" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="Git" width="40"
-                height="40" /> </a>
-        <a href="https://www.hostinger.com.br/tutoriais/o-que-github" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"
-                width="40" height="40" /> </a>
-        <a href="https://www.alura.com.br/artigos/figma" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma"
-                width="40" height="40" /> </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="30" alt="amazonwebservices logo"  />
     </p>
 </div>
 
 <div align="center">  
- 
-![Snake animation](https://github.com/Eufrazine/Eufrazine/blob/output/github-contribution-grid-snake.svg)
- 
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=4m8savvvj94y0p2arwek98gw3&unique={true|1|on|yes})
+
 </div>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Eufrazine/Eufrazine/output/snake.svg" alt="Snake animation" />
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=292d3e&height=150&section=footer&text=“It+does+not+dwell+on+dreams+and+forget+to+live.”+—+Albus+Dumbledore+🧙‍♂️&fontSize=20&fontColor=c792ea"/>
