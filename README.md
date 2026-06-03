@@ -8,7 +8,7 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=89ddff&size=20&center=true&v
     <p>🎓 I am graduating in <b>Systems Analysis and Development</b> (Análise e Desenvolvimento de Sistemas - ADS) from
         Unicid - Universidade Cidade de São Paulo </p>
     <p>💼 Currently working as a <b>Front-End trainee</b> at <b>Avanade</b></p>
-    <p>🌻 I am currently studying <b>React and other front-end languages</b> </p>
+    <p>🌻 I am currently studying <b>Angular and other front-end languages</b> </p>
     <p>🧐 I'm interested in <b>front-end development</b> </p>
     <p>👨‍💻 All of my projects are available at: <a href="https://github.com/Eufrazine/Developing">DevDepot</>
     </p>
