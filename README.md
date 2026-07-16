@@ -7,13 +7,12 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=89ddff&size=20&center=true&v
 <div>
     <p>🎓 I am graduating in <b>Systems Analysis and Development</b> (Análise e Desenvolvimento de Sistemas - ADS) from
         Unicid - Universidade Cidade de São Paulo </p>
-    <p>💼 Currently working as a <b>Front-End trainee</b> at <b>Avanade</b></p>
-    <p>🌻 I am currently studying <b>Microsoft certifications</b> </p>
+    <p>💼 Currently working as a <b>front-End developer</b>
     <p>🧐 I'm interested in <b>front-end development</b> </p>
-    <p>👨‍💻 All of my projects are available at: <a href="https://github.com/Eufrazine/Developing">DevDepot</>
+    <p>👨‍💻 All of my projects are available at: <a href="https://github.com/moniquecvieira/Developing">DevDepot</>
     </p>
-    <p>📧 How to reach me <b>moniquecaggiano@gmail.com</b> </p>
-    <p>🌎 Connect with me in <b><a href="https://linkedin.com/in/monique-cagg/">Linkedin</a></b> </p>
+    <p>📧 How to reach me <b>moniquecvieira26@gmail.com</b> </p>
+    <p>🌎 Connect with me in <b><a href="https://linkedin.com/in/monique-cvieira/">Linkedin</a></b> </p>
     <p>💜 Interesting fact: I started <b>studying about programming</b> in the covid-19 pandemic! </p>
 </div>
 
